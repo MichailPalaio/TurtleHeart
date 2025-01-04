@@ -59,7 +59,8 @@ sudo apt install python3-pygame
 sudo apt-get update
 sudo apt-get install python3-tk
 ```
-    
+---
+
 ## Costumize
 1. **Audio File**: Place your MP3 file in the project directory or in your desired path. Update the `mp3_file variable` in the script with its path:
 ```python
